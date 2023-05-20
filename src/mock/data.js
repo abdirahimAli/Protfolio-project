@@ -10,17 +10,17 @@ export const headData = {
 // HERO DATA
 export const heroData = {
   title: '',
-  name: '',
-  subtitle: '',
+  name: 'Abdirahim',
+  subtitle: 'I am FrontEnd developer',
   cta: '',
 };
 
 // ABOUT DATA
 export const aboutData = {
   img: 'profile.jpg',
-  paragraphOne: '',
-  paragraphTwo: '',
-  paragraphThree: '',
+  paragraphOne: '1',
+  paragraphTwo: '2',
+  paragraphThree: '3',
   resume: 'https://www.resumemaker.online/es.php', // if no resume, the button will not show up
 };
 
@@ -28,30 +28,40 @@ export const aboutData = {
 export const projectsData = [
   {
     id: nanoid(),
-    img: 'project.jpg',
-    title: '',
-    info: '',
-    info2: '',
+    img: 'Rahim entertainment-img.png',
+    title: 'Rahim Entertainment',
+    info: 'HTML,CSS3,Javascript and React',
+    info2:
+      'To build the website I have used React libraries, react router,context API and  data.jason file. ',
     url: '',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+    repo: 'https://github.com/abdirahimAli/Rahim-Entertainment', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
-    img: 'project.jpg',
-    title: '',
-    info: '',
-    info2: '',
+    img: 'Dictionary-img.png',
+    title: 'Dirctionary app',
+    info: 'HTML,CSS3,Javascript',
+    info2: ' Built with Semantic HTML5 markup, CSS custom propertiesand and Flexbox',
     url: '',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+    repo: 'https://github.com/abdirahimAli/Dictionaryproject', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
-    img: 'project.jpg',
-    title: '',
-    info: '',
-    info2: '',
+    img: 'Password-GEN-img.png',
+    title: 'Password Generator App',
+    info: 'HTML,Saas/CSS3,Javascript',
+    info2: ' Built with Semantic HTML5 markup, CSS custom properties, Flexbox and grid display',
     url: '',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+    repo: 'https://github.com/abdirahimAli/Password_Generator', // if no repo, the button will not show up
+  },
+  {
+    id: nanoid(),
+    img: 'Password-GEN-img.png',
+    title: 'Password Generator App',
+    info: 'HTML,Saas/CSS3,Javascript',
+    info2: ' Built with Semantic HTML5 markup, CSS custom properties, Flexbox and grid display',
+    url: '',
+    repo: 'https://github.com/abdirahimAli/Password_Generator', // if no repo, the button will not show up
   },
 ];
 
@@ -90,5 +100,5 @@ export const footerData = {
 
 // Github start/fork buttons
 export const githubButtons = {
-  isEnabled: true, // set to false to disable the GitHub stars/fork buttons
+  isEnabled: false, // set to false to disable the GitHub stars/fork buttons
 };
