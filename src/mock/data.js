@@ -22,7 +22,7 @@ export const aboutData = {
   paragraphTwo: 'My goal is to craft visually appealing user-friendly websites.',
   paragraphThree:
     'My experties lies in translating designs into fully functional websites, while utilizing my development skills to enhance and customize their features',
-  resume: 'https://www.resumemaker.online/es.php', // if no resume, the button will not show up
+  resume: '', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
