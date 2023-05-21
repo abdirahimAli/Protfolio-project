@@ -17,10 +17,11 @@ export const heroData = {
 
 // ABOUT DATA
 export const aboutData = {
-  img: 'profile.jpg',
-  paragraphOne: '1trtetey',
-  paragraphTwo: '2',
-  paragraphThree: '3',
+  img: '',
+  paragraphOne: 'I am excited about creating stuning websites.',
+  paragraphTwo: 'My goal is to craft visually appealing user-friendly websites.',
+  paragraphThree:
+    'My experties lies in translating designs into fully functional websites, while utilizing my development skills to enhance and customize their features',
   resume: 'https://www.resumemaker.online/es.php', // if no resume, the button will not show up
 };
 
