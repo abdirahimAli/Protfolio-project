@@ -42,7 +42,7 @@ export const projectsData = [
     title: 'Dirctionary app',
     info: 'HTML,CSS3,Javascript',
     info2: ' Built with Semantic HTML5 markup, CSS custom propertiesand and Flexbox',
-    url: '',
+    url: 'https://dictionar-app.netlify.app/',
     repo: 'https://github.com/abdirahimAli/Dictionaryproject', // if no repo, the button will not show up
   },
   {
