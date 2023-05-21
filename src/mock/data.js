@@ -56,12 +56,12 @@ export const projectsData = [
   },
   {
     id: nanoid(),
-    img: 'Password-GEN-img.png',
+    img: 'Tic-Tac-Toe_img.png',
     title: 'Password Generator App',
     info: 'HTML,Saas/CSS3,Javascript',
     info2: ' Built with Semantic HTML5 markup, CSS custom properties, Flexbox and grid display',
     url: '',
-    repo: 'https://github.com/abdirahimAli/Password_Generator', // if no repo, the button will not show up
+    repo: 'https://github.com/abdirahimAli/Tic-tac-toe', // if no repo, the button will not show up
   },
 ];
 
