@@ -35,7 +35,7 @@ export const projectsData = [
     info: 'HTML,CSS3,Javascript and React',
     info2:
       'This website enables the user to filter between movies,Tv shows and bookmarked contents.',
-    url: '',
+    url: 'https://rahim-entertainment.netlify.app/',
     repo: 'https://github.com/abdirahimAli/Rahim-Entertainment', // if no repo, the button will not show up
   },
   {
