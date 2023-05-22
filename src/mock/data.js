@@ -33,7 +33,7 @@ export const projectsData = [
     title: 'Rahim Entertainment',
     info: 'HTML,CSS3,Javascript and React',
     info2:
-      'To build the website I have used React libraries, react router,context API and  data.jason file. ',
+      'This website enables the user to filter between movies,Tv shows and bookmarked contents.',
     url: '',
     repo: 'https://github.com/abdirahimAli/Rahim-Entertainment', // if no repo, the button will not show up
   },
@@ -42,7 +42,8 @@ export const projectsData = [
     img: 'Dictionary-img.png',
     title: 'Dirctionary app',
     info: 'HTML,CSS3,Javascript',
-    info2: ' Built with Semantic HTML5 markup, CSS custom propertiesand and Flexbox',
+    info2:
+      'This app is utilising an api which makes it able to search for user inputed words from Oxford dictionary',
     url: 'https://dictionar-app.netlify.app/',
     repo: 'https://github.com/abdirahimAli/Dictionaryproject', // if no repo, the button will not show up
   },
@@ -51,7 +52,8 @@ export const projectsData = [
     img: 'Password-GEN-img.png',
     title: 'Password Generator App',
     info: 'HTML,Saas/CSS3,Javascript',
-    info2: ' Built with Semantic HTML5 markup, CSS custom properties, Flexbox and grid display',
+    info2:
+      'This app generates passwords. The user is able to select the type of characters and the length of the password. Additionaly user can copy the generated password to clipboard',
     url: 'https://abdi-password-generator.netlify.app/',
     repo: 'https://github.com/abdirahimAli/Password_Generator', // if no repo, the button will not show up
   },
@@ -60,7 +62,7 @@ export const projectsData = [
     img: 'Tic-Tac-Toe_img.png',
     title: 'Password Generator App',
     info: 'HTML,Saas/CSS3,Javascript',
-    info2: ' Built with Semantic HTML5 markup, CSS custom properties, Flexbox and grid display',
+    info2: 'Simple popular game. The user is able to challenge a Computer or another player.  ',
     url: 'https://abdi-tic-tac-toe-game.netlify.app/',
     repo: 'https://github.com/abdirahimAli/Tic-tac-toe', // if no repo, the button will not show up
   },
