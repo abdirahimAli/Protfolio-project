@@ -18,7 +18,7 @@ export const heroData = {
 // ABOUT DATA
 export const aboutData = {
   // img: '',
-  paragraphOne: 'I am excited about creating stuning websites.',
+  // paragraphOne: 'I am excited about creating stuning websites.',
   paragraphTwo: 'My goal is to craft visually appealing user-friendly websites.',
   paragraphThree:
     'My experties lies in translating designs into fully functional websites, while utilizing my development skills to enhance and customize their features',
@@ -70,31 +70,31 @@ export const projectsData = [
 export const contactData = {
   cta: '',
   btn: '',
-  email: '',
+  email: 'abdirahim08@outlook.com',
 };
 
 // FOOTER DATA
 export const footerData = {
   networks: [
-    {
-      id: nanoid(),
-      name: 'twitter',
-      url: '',
-    },
-    {
-      id: nanoid(),
-      name: 'codepen',
-      url: '',
-    },
+    // {
+    //   // id: nanoid(),
+    //   // name: 'twitter',
+    //   // url: '',
+    // },
+    // {
+    //   id: nanoid(),
+    //   name: 'codepen',
+    //   url: '',
+    // },
     {
       id: nanoid(),
       name: 'linkedin',
-      url: '',
+      url: 'https://www.linkedin.com/in/abdirahim-ismail-7496a5202/',
     },
     {
       id: nanoid(),
       name: 'github',
-      url: '',
+      url: 'https://github.com/abdirahimAli',
     },
   ],
 };
