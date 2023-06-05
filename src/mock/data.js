@@ -11,7 +11,7 @@ export const headData = {
 export const heroData = {
   title: '',
   name: 'Abdirahim',
-  subtitle: 'I am FrontEnd developer',
+  subtitle: 'I am software developer',
   cta: '',
 };
 
@@ -19,7 +19,7 @@ export const heroData = {
 export const aboutData = {
   // img: '',
   paragraphOne:
-    'Highly motivated, detail-oriented Front End Developer with good technical skills working with HTML5,CSS/SAAS,JavaScript and React libraries. Very adapted at both independent and collaborative projects.',
+    'Highly motivated, detail-oriented software Developer with good technical skills working with C, HTML5,CSS/SAAS,JavaScript and React libraries. Very adapted at both independent and collaborative projects.',
   paragraphTwo: 'My goal is to craft visually appealing user-friendly websites.',
   paragraphThree:
     'My experties lies in translating designs into fully functional websites, while utilizing my development skills to enhance and customize their features',
